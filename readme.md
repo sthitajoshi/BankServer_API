@@ -10,20 +10,6 @@ The Bank Server API is a secure, high-performance JSON API built using Go, desig
 - *JWT Authentication*: Token-based authentication using JSON Web Tokens (JWT) for secure API access.
 - *Request Handlers*: Modular HTTP handlers for routing and processing API requests.
 
-## Project Structure
-
-├── cmd/
-│   └── main.go                # Entry point of the application
-├── internal/
-│   ├── handlers/             # HTTP request handlers
-│   ├── auth/                 # Authentication and JWT logic
-│   ├── money/                # Money transformation and transaction logic
-│   └── models/               # Data models and structs
-├── config/                   # Configuration files (e.g., environment variables)
-├── go.mod                    # Go module dependencies
-├── go.sum                    # Go module checksums
-└── README.md                 # Project documentation
-
 
 ## Prerequisites
 - Go (version 1.20 or higher)
@@ -33,7 +19,7 @@ The Bank Server API is a secure, high-performance JSON API built using Go, desig
 ## Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/sthitajoshi/BankServer_API.git
    cd your-repo
    
 
