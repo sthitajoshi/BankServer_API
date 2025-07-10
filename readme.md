@@ -18,7 +18,7 @@ The Bank Server API is a secure, high-performance JSON API built using Go, desig
 ## Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/sthitajoshi/BankServer_API.git
    cd your-repo
    
 
@@ -91,4 +91,4 @@ go test ./...
 - [golang.org/x/crypto](https://pkg.go.dev/golang.org/x/crypto): Cryptographic utilities
 
 ## Contact
-For questions or support, please open an issue or contact the maintainer at [your-email@example.com]
+For questions or support, please open an issue or contact the maintainer at [sthitajoshi@gmail.com]
