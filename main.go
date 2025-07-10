@@ -1,7 +1,6 @@
 package main
 
-import "log"
-
 func main() {
-	log.Println("Bank server")
+	server := NewAPIServer(":8080")
+	server.run()
 }

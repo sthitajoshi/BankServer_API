@@ -90,8 +90,5 @@ go test ./...
 - [godotenv](https://github.com/joho/godotenv): Environment variable loader
 - [golang.org/x/crypto](https://pkg.go.dev/golang.org/x/crypto): Cryptographic utilities
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For questions or support, please open an issue or contact the maintainer at [your-email@example.com]
